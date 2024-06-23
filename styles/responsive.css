@@ -1,6 +1,7 @@
 @media only screen and (min-width:1440px) and (max-width:1920px){
 
 }
+
 @media only screen and (min-width:1366px) and (max-width:1600px){
     #main-menu li a{font-size: 0.9rem; padding: 50px 20px;}
     #main-menu .dropdown-submenu>.dropdown-menu{top: 97px;}
@@ -54,6 +55,7 @@
     #foundation-info .info:after{height: 80%; background-size: cover; margin:0 auto; }
 
 }
+
 @media only screen and (min-width:768px) and (max-width:1003px){
 
     #wrapper {width: 100%; position: relative; z-index: 1;}
@@ -113,6 +115,9 @@
 }
 
 @media only screen and (min-width:320px) and (max-width:767px){
+    .myNameTag{
+    margin-top: 16px;
+    }
 
     #wrapper {width: 100%; position: relative; z-index: 1;}
 
@@ -238,7 +243,5 @@
 @media only screen and (min-width:320px) and (max-width:480px){
     #banner .banner-caption .sub-title{font-size: 0.85rem;}
     #banner .banner-caption .title{font-size: 1.8rem;}
-
-
 
 }
